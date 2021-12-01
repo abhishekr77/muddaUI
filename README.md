@@ -1,6 +1,6 @@
 # mudda
 
-A new Flutter project.
+Internship Assignment
 
 ## Getting Started
 
