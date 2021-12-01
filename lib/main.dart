@@ -40,7 +40,7 @@ class _frontState extends State<front> {
                     fontFamily: 'Poppins'),
                 textAlign: TextAlign.left,
               ),
-              SizedBox(width: 97,),
+              SizedBox(width: 116.5,),
               TextButton(
                   style: TextButton.styleFrom(
                     textStyle: const TextStyle(fontSize: 15,),
